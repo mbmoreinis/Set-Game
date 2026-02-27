@@ -1,2 +1,3 @@
 # Set-Game
-Harvesting JQuery
+Harvesting JQuery from
+https://playset.netlify.app/
